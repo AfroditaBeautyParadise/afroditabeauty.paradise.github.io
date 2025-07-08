@@ -1,9 +1,2 @@
-node_modules/
-.env
-*.log
-.DS_Store
-.vscode/
-.idea/
-src/input.css
-src/assets
-*.json
+input.css
+assets

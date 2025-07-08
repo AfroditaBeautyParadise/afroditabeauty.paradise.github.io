@@ -157,9 +157,6 @@
   }
 }
 @layer utilities {
-  .h-0\.5 {
-    height: calc(var(--spacing) * 0.5);
-  }
   .h-auto {
     height: auto;
   }
